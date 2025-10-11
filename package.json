@@ -2,7 +2,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://react-3-fiber.github.io/R3F-Fishbowl-Gitpage/",
+  "homepage": ".",
   "scripts": {
       "deploy": "gh-pages -d build"
   }

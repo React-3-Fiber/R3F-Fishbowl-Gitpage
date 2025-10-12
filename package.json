@@ -2,8 +2,8 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": ".",
+  "homepage": "./R3F-Fishbowl-Gitpage",
   "scripts": {
-      "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   }
 }

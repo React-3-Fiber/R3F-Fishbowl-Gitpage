@@ -4,6 +4,7 @@
   },
   "homepage": "https://react-3-fiber.github.io/R3F-Fishbowl-Gitpage/",
   "scripts": {
+    "predeploy": "node ./scripts/fix-build-paths.js",
     "deploy": "gh-pages -d build"
   }
 }
